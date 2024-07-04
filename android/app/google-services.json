@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806653262365",
+    "project_id": "ochat-93e7c",
+    "storage_bucket": "ochat-93e7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806653262365:android:ac56636e041d1ea9cfa4f4",
+        "android_client_info": {
+          "package_name": "com.Flutter.ochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806653262365-98fe02cl2ugsd5trholbdsofukvvtco5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqiVPS5rMVACyAGUp0U8zFnijVf7X-vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806653262365-98fe02cl2ugsd5trholbdsofukvvtco5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
